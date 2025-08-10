@@ -1,0 +1,55 @@
+{
+  "home": {
+    "title": "Find a garage",
+    "anonymous_garage": "Garage (details locked)",
+    "rating": "Rating",
+    "price_band": "Price",
+    "pickup": "Home pickup",
+    "distance": "Distance",
+    "unlock_hint": "Pay a small fee (5 AED) to unlock multiple garage details for 24h."
+  },
+  "categories": {
+    "tire-change": "Tire Change",
+    "oil-change": "Oil Change",
+    "battery": "Battery Replacement",
+    "brake-service": "Brake Service"
+  },
+  "garage": {
+    "locked_title": "Details locked",
+    "locked_text": "Unlock once (5 AED) to reveal name, address, and contact for multiple garages for 24 hours.",
+    "book_now": "Book now",
+    "message_garage": "Message garage",
+    "chat_title": "Chat",
+    "chat_hint": "In-app chat will not reveal phone numbers."
+  },
+  "booking": {
+    "title": "Confirm booking",
+    "scheduled": "Schedule time",
+    "confirm": "Confirm"
+  },
+  "active": {
+    "title": "Active job",
+    "status": "Status",
+    "coords": "Live coords",
+    "start": "Start Service",
+    "complete": "Complete Service"
+  },
+  "chat": {
+    "title": "Chat",
+    "placeholder": "Write a message\u2026",
+    "send": "Send"
+  },
+  "settings": {
+    "title": "Settings",
+    "info": "This is a mock build. Payments & maps are simulated."
+  },
+  "unlock": {
+    "active": "Unlock pass active",
+    "pay": "Pay {{amount}} AED to unlock"
+  },
+  "common": {
+    "yes": "Yes",
+    "no": "No",
+    "not_found": "Not found"
+  }
+}
