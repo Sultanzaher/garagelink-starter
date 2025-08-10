@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Al Ain Auto Repair",
+    "location": "Al Ain, UAE",
+    "contact": "+971 50 123 4567"
+  },
+  {
+    "id": 2,
+    "name": "Green Garage",
+    "location": "Al Ain, UAE",
+    "contact": "+971 50 765 4321"
+  }
+]
